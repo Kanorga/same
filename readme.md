@@ -3,7 +3,8 @@
 * [Service](#service:)
 * [Action](#action:)
 * [Publisher](#publisher:)
-![Markdown Logo] (./happy-person-11545688398rslqmyfw4g.png)
+![Markdown Logo] (DB_URL: ${{ github.workspace }}/happy-person-11545688398rslqmyfw4g.png)
+
 ## **Service:** 
 #### **Summary:**
 Async, no progress, single "one-shot" with "finished" feedback. 
