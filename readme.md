@@ -3,7 +3,7 @@
 * [Service](#service:)
 * [Action](#action:)
 * [Publisher](#publisher:)
-![alt text] (https://github.com/Kanorga/same/blob/main/happy-person-11545688398rslqmyfw4g.png)
+* ![alt text](https://github.com/Kanorga/same/blob/main/happy-person-11545688398rslqmyfw4g.png)
 
 ## **Service:** 
 #### **Summary:**
