@@ -3,7 +3,7 @@
 * [Service](#service:)
 * [Action](#action:)
 * [Publisher](#publisher:)
-![Markdown Logo] (${{ github.workspace }}/happy-person-11545688398rslqmyfw4g.png)
+![Markdown Logo] (https://github.com/Kanorga/same/blob/main/happy-person-11545688398rslqmyfw4g.png)
 
 ## **Service:** 
 #### **Summary:**
